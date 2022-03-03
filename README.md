@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+Switches current user to the user betty
